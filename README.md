@@ -171,5 +171,4 @@ function generateRandomString(length) {
 
 let randomString = generateRandomString(10);
 pm.environment.set("randomString", randomString);
-
 ```
