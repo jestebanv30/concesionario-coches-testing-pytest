@@ -48,14 +48,12 @@ Asegúrate de que esté activado el entorno virtual. Verifica que tienes el arch
 
 ```
 pip install -r requirements.txt
-
 ```
 
 Esto instalará las dependencias necesarias para trabajar con pytest. Tambien puedes descargarlas de forma manual, una por una con el comando:
 
 ```
 pip install <paquete a instalar>
-
 ```
 
 ### 5. Ejecutar pruebas con Pytest
