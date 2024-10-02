@@ -12,7 +12,7 @@ Asegúrate de marcar la casilla **"Add Python to PATH"** al comienzo de la insta
 
 Clona el repositorio y abre la terminal para introducir los siguientes comandos:
 
-- Clonar el repo
+- Clonar el repo.
 
 ` git clone https://github.com/jestebanv30/concesionario-coches-testing-pytest.git`
 
