@@ -8,7 +8,7 @@ En Windows: Descarga el instalador de Python desde [Aqui](https://www.python.org
 
 Asegúrate de marcar la casilla **"Add Python to PATH"** al comienzo de la instalación. Sigue las instrucciones del instalador para completar la instalación.
 
-### 2. Instalar Entorno Virtual (obligatorio para instalar pytest y las dependencias)
+### 2. Instalar Entorno Virtual (obligatorio para instalar pytest y las dependencias).
 
 Clona el repositorio y abre la terminal para introducir los siguientes comandos:
 
