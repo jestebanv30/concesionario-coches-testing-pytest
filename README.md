@@ -22,7 +22,7 @@ Clona el repositorio y abre la terminal para introducir los siguientes comandos:
   pip install virtualenv
 ```
 
-- Crea un nuevo entorno virtual dentro de la carpeta llamado "venv"
+- Crea un nuevo entorno virtual dentro de la carpeta llamado "venv".
 
 ```
   python -m venv venv
