@@ -1,6 +1,6 @@
 ## 🚀 TESTING CON PYTEST
 
-## Requerimientos:
+## Requerimientos
 
 ### 1. Instalar Python
 
