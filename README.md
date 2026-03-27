@@ -1,8 +1,8 @@
 ## 🚀 TESTING CON PYTEST
 
-## Requerimientos
+## Requerimientos:
 
-### 1. Instalar Python
+### 1. Instalar Python:
 
 En Windows: Descarga el instalador de Python desde [Aqui](https://www.python.org/downloads/windows/).
 
